@@ -23,5 +23,5 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:
-        name: pit-channel
+        name: fixports
         path: D:\a\fixports\fixports\target\debug\fixports.exe
